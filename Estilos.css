@@ -65,7 +65,7 @@ body {
   overflow: hidden;
 }
 
-#video-grecia {
+.video-grecia {
   position: absolute;
   top: 50%;
   left: 50%;
